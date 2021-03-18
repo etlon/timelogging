@@ -2,8 +2,8 @@
 #include <MFRC522.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid = "BND-VWCaddy-572";
-const char* password = "Xob32ataD#";
+const char* ssid = "";
+const char* password = "";
 
  
 #define SS_PIN D8
